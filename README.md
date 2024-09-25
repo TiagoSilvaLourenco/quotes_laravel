@@ -19,7 +19,9 @@ The motivation behind this project is to obtain the best prices from suppliers a
 
 <div align="center"  style="margin-top: 50px"><a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="175" alt="MySQL Logo"></a></div>
 
-<div align="center"  style="margin-top: 50px"><a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="logos/tailwindcss-logotype-white.svg" width="275" alt="Tailwind CSS Logo"></a></div>
+<div align="center"  style="margin-top: 50px"><a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="200" alt="Tailwind CSS Logo">
+<p style="margin-top: 5px; font-size: 28px; color: white;">tailwind</p>
+</a></div>
 
 ## Description
 
