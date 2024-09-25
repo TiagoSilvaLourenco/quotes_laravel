@@ -43,10 +43,34 @@ For buyers and administrators, they can register users of the system and define 
 
 Buyers and administrators can also register products and link this product to the type of user, who supplies and who distributes.
 
-Features that are still missing:
+## Screens
+
+This project is adapted to Brazilian Portuguese, but can change any other language.
+
+### Screen Supplier
+
+> Only update value of products add by purhcaser or admin previosly. The currency is in Real Brazilian but can change any other currency.
+
+![Screen supplier](screenshots/supplier_login.gif)
+
+### Screen Purchaser
+
+> when is purchaser access the system he can add, update user and products. User don't deleted only change the type user for a user specific that haven't access any feature into system.
+
+![Screen purchaser](screenshots/purchaser_login.gif)
+
+### Screen Outlet
+
+> To build this feature I used lib QuaggaJS for read codebar. When activate camera in mobile phone open camera and read codebar of product. After search by code product, so add product to list and save in localstorage case later finish the count.
+
+![Screen outlet](screenshots/outlets_login.gif)
+
+### Features that are still missing:
 
 - Create the algorithm that makes the quotation
 - Send the products requested by the stores to the purchasing department
 - Assemble the order made by the buyer and send it to the supplier
 
-**If you want to know more about the project or talk about it, please send me an email.**
+## Contact
+
+**If you want to know more about the project or talk about it, [please send me an email.](https://www.linkedin.com/in/tslourenco/)**
